@@ -35,8 +35,8 @@ EDA or exploratory data analysis - where we will analyze the data using charts &
 
 **Missing Values/Null Values**
 
-**
-**Data Understanding :** 
+
+**Data Understanding:** 
 This step involves importing the dataset, & gaining some preliminary information. Used functions like describe() , info() to gain insights on the variables. Also found unique values per variable. The datset which Almabetter provided us to Do Project is the Airbnb Dataset of New York of the booking or review till yearr 2019. The dataset contains around 49,000 observations and 16 columns, with a mix of categorical and numeric values. The columns likely include information such as listing ID, name, host ID, neighborhood, room type, price, minimum nights, number of reviews, last review date, reviews per month, number of listings per host, availability, and more.
 
 [2] **Understanding Your Variables**
@@ -58,6 +58,8 @@ This step involves importing the dataset, & gaining some preliminary information
   (1) Why did you pick the specific chart?
    (2) What is/are the insight(s) found from the chart?
    (3)  Will the gained insights help creating a positive business impact?
+   
+   
    **CHART2**
    .
    .
@@ -69,11 +71,17 @@ This step involves importing the dataset, & gaining some preliminary information
    .
    .
    .
-   **CHART10**
+ 
+  
+  **CHART10**
    .
    .
+  
+   
    **Chart 14 Correlation Heatmap**
    .
+   
+   
    **CHART 15 Pair Plots**
 
 
@@ -141,16 +149,19 @@ This step involves importing the dataset, & gaining some preliminary information
 **Conclusion of the Project:**
 
 Summarizing the key insights and their implications for Airbnb:
-Pricing strategies might need to be neighborhood-specific.
 
-Marketing efforts could focus on promoting less popular room types or areas.
+* Pricing strategies might need to be neighborhood-specific.
 
-Hosts with multiple listings contribute significantly to the platform's supply.
+* Marketing efforts could focus on promoting less popular room types or areas.
 
-Reviews are crucial for understanding listing popularity and guest satisfaction
+* Hosts with multiple listings contribute significantly to the platform's supply.
 
-The dataset contains around 49,000 observations and 16 columns, with a mix of categorical and numeric values.
+* Reviews are crucial for understanding listing popularity and guest satisfaction
 
-The columns likely include information such as listing ID, name, host ID, neighborhood, room type, price, minimum nights, number of reviews, last review date, reviews per month, number of listings per host, availability, and more.
+* The dataset contains around 49,000 observations and 16 columns, with a mix of categorical and numeric values.
+
+* The columns likely include information such as listing ID, name, host ID, neighborhood, room type, price, minimum nights, number of reviews, last review date, reviews per month, number of listings per host, availability, and more.
+
+* From the above data analysis process we can deduce that there are certain factors that impacts the properties of listings , like geographical locations , availability , minimum nights etc. The above visualizations displays these very factors & how they impacts the listings.
 
 DONE.
