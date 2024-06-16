@@ -25,7 +25,7 @@ EDA or exploratory data analysis - where we will analyze the data using charts &
 
 * Exploratory Data Analysis (EDA): Conduct a thorough analysis to understand the data's structure, relationships, and key characteristics & To Use visual tools to represent the data findings clearly and concisely.
 
-* Insights and Conclusion: Draw meaningful insights and provide best Conclusion to this Project.
+* Solution to the Business Objective,Insights and Conclusion: To Draw meaningful Solutions From the Visualization and Statistical Data and some of the best  insights to  provide best Conclusion to this Project.
 
 
 [1]**LET's BEGIN**
