@@ -16,7 +16,8 @@ EDA or exploratory data analysis - where we will analyze the data using charts &
 
 **BUSINESS OBJECTIVE:** Airbnb is a platform that connects travelers with hosts offering unique accommodations. With millions of listings, data analysis is crucial for security, business decisions, understanding user behavior, and enhancing the service.
 
-* **Approach to the Problem Statement:**
+ **MY Approach to the Problem Statement:**
+
 
 * Understanding the Problem Statement: Clearly define the problem and identify the objectives of the analysis.
 
